@@ -1,0 +1,65 @@
+body {
+
+    background-color: rgb(166, 153, 238);
+}
+
+ p {
+    border: 2px solid black;
+    background-color: #50ffe8;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.banner {
+  display: block;
+  width: 100%;
+  height: 20px;
+  object-fit: cover;
+  object-position: center;
+  border-bottom: 2px solid #172033;
+}
+
+
+main {
+    width: 80%;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+}
+
+
+  
+
+
+ nav {
+    background-color: DarkGray;
+    border: .2em solid DarkSlateGray;
+    display: block;
+    unicode-bidi: isolate;}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    flex: 1;
+    text-align: center;}
+
+h2 { 
+
+border: 2px solid black;
+    background-color: #ff9050;
+    padding: 5px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+footer {
+    font-size: 12px;
+     margin-left: 0%;
+
+}
+
